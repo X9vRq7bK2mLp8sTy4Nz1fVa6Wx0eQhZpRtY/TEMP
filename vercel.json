@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "src": "/api/get-token", "dest": "/api/get-token.js" },
+    { "src": "/api/text", "dest": "/api/text.js" }
+  ]
+}
